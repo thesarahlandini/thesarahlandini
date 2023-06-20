@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thesarahlandini
-- 👀 I’m interested in data science and database management
-- 🌱 I’m currently learning Data Science at Drexel University
-- ✨ I’m looking to collaborate on projects
+- 👀 I’m interested in data science, database management, and learning more about software engineering
+- 🎓 I graduated from Drexel University with a Bachelor of Science in Data Science
+- 🤝 I’m looking to collaborate on projects
 - 📫 Email me at sarahmlandini@gmail.com
 
 <!---
